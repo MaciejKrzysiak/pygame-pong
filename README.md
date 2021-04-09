@@ -16,6 +16,7 @@ Once installed, run via your terminal:
 ```
 $> git clone https://github.com/MaciejKrzysiak/pygame-pong.git
 $> cd pygame-pong
+$> pip install pygame
 $> python3 pygame-pong.py
 ```
 If you do not have python3 installed, see here: [Python](https://realpython.com/installing-python/).
